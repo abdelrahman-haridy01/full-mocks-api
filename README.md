@@ -6,7 +6,7 @@ Make a Full fake REST API, MakePOST, PUT, PATCH or DELETE requests, Fake Registe
 ## How to use it?
 
 Clone or download a repo. Then run `npm i` on project path after install all packages run `node server.js`.The app will automatically reload if you change any of the source files.
-Use `http://localhost:8000/` for check Defualt API's by [getpostman](https://www.getpostman.com/). Also You can check defualt API's in [collaction_api.json](https://github.com/abdelrahman-haridy01/full-mocks-api/blob/master/database.json) path.
+Use `http://localhost:8000/` for check Defualt API's by [getpostman](https://www.getpostman.com/). Also You can check defualt API's in [collaction_api.json](https://github.com/abdelrahman-haridy01/full-mocks-api/blob/master/ngAbhar.postman_collection.json) path.
 
 
 
